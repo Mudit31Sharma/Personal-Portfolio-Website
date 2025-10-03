@@ -1,6 +1,6 @@
 # Personal Website Template
 
-Welcome to the Personal Website Template! This web app is designed to help you create a personalized website easily. It's particularly useful for computer science students, freshers, software professionals, data professionals, and anyone else looking to showcase their work and profile. The template is built using React.js, HTML, CSS, and JavaScript.
+Welcome to the Personal Website Template! This web app is designed to help you create a personalized website easily. It's particularly useful for computer science students, freshers, software professionals, data professionals, and anyone else looking to showcase their work and profile. The template is built using React.js, HTML, CSS, NodeJS and JavaScript.
 
 ![Personal Website Screenshot](./src/components/images/personal_website_template_ss.png)
 
