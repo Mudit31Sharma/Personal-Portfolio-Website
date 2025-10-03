@@ -1,5 +1,5 @@
 {
-  "homepage": "https://KoustubhSahu.github.io/Personal-Website-Template",
+  "homepage": "https://Mudit31Sharma.github.io/Personal-Portfolio-Website",
   "name": "portfolio",
   "version": "0.1.0",
   "private": true,
@@ -43,6 +43,6 @@
     ]
   },
   "devDependencies": {
-    "gh-pages": "^6.1.1"
+    "gh-pages": "^6.3.0"
   }
 }
